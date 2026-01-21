@@ -1,0 +1,105 @@
+.navbar{
+       background-color: brown;
+       padding: 15px 30px;
+       width: 100%;
+       }
+        .nav-container{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 90%;
+        }
+        .logo{
+        color: white;
+        font-size: 30px;
+        font-weight; bold;
+        }
+        .nav-menu{
+        display: flex;
+        list-style: none;
+        gap: 40px;
+        }
+        .nav-link{
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 20px;
+        } .signup-btn{
+        background-color: grey;
+        color: black;
+       font-size: 30px;
+       border-radius: 20px;
+       }
+        .signup-btn:hover{
+        background-color: red;
+        padding: 10px;
+        color: white;
+        }
+        a:hover{
+        background-color: white;
+        color: black;
+        padding: 10px;
+        border-radius: 20px;
+        }main{
+      background-color:orange;
+      padding: 20px;
+      border-radius:20px;
+      margin: 20px auto;
+      max-width: 1000px;
+      }
+      h1{
+      font-size: 30px;
+      font-family: Algerian;
+      color: white;
+      text-align: center;
+      }
+      p{
+      font-size: 15px;
+
+      }
+      h2{
+      font-size: 28px;
+      font-family: Times New Roman;
+      color: white;
+      text-align: center;
+      border-bottom:2px solid white;
+      }
+      .hero-image{
+      background-image: url("university-2104580_1280.jpg");
+      height: 400px;
+      border-radius: 10px;
+      background-size: cover;
+      background-position: center;
+      }
+      .hero-text{
+      font-size: 30px;
+      font-weight: bold;
+      text-align: center;
+      position: relative;
+      top: 50%;
+      color: red;
+      text-decoration: underline;
+      text-align: left;
+      }
+      .list{
+      color: brown;
+      font-family: Algerian;
+      background-color: white;
+      width: 300px;
+      padding: 30px;
+      border-radius: 20px;
+      text-decoration: underline;
+      }
+      iframe{
+      width: 100%;
+      border-radius: 20px;
+      }
+      footer{
+      font-size: 10px;
+      text-decoration: underline;
+      }
+      .youtube{
+      display: flex;
+      justify-content: center;
+      gap: 40px;
+      }
